@@ -2,7 +2,8 @@
 ## 📁 `Project-7-Jenkins CI/CD Pipeline Project
 
 
-## Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
+## Part 1 - Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
+## Note - Part 2 is inside java-maven-sonar-argocd-helm-k8s folder.
 
 ## AWS EC2 Instance
 
@@ -122,6 +123,7 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 The docker agent configuration is now successful.
+
 
 
 
