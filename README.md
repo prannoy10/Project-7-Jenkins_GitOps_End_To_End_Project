@@ -1,4 +1,5 @@
-# Jenkins CI/CD Pipeline Project
+# ✅ PROJECT 7  
+## 📁 `Project-7-Jenkins CI/CD Pipeline Project
 
 
 ## Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
@@ -121,6 +122,7 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 The docker agent configuration is now successful.
+
 
 
 
